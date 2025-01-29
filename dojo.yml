@@ -4,10 +4,6 @@ type: topic
 
 modules:
 
-  - import:
-      dojo: intro-to-cybersecurity
-      module: cryptography
-
   - id: "crypto"
     name: Cryptography
     description: Homework 1 for CSCI 43200 Purdue Spring 2025
