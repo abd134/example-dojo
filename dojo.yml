@@ -1,5 +1,5 @@
 id: homework1
-name: csci432-homework1
+name: CSCI 43200 Homework1
 type: topic
 
 modules:
@@ -18,11 +18,41 @@ modules:
           dojo: intro-to-cybersecurity
           module: cryptography
           challenge: level-4
+        name: Task 1
 
       - import:
           dojo: intro-to-cybersecurity
           module: cryptography
-          challenge: level-3
-        name: Multiple-pad
-        description: something absurd
+          challenge: cpa
+        name: Task 2
+
+      - import:
+          dojo: intro-to-cybersecurity
+          module: cryptography
+          challenge: aes-cbc
+        name: Task 3
+
+      - import:
+          dojo: intro-to-cybersecurity
+          module: cryptography
+          challenge: aes-cbc-corrupt
+        name: Task 4
+
+      - import:
+          dojo: intro-to-cybersecurity
+          module: cryptography
+          challenge: aes-cbc-corrupt-resize
+        name: Task 5
+
+      - import:
+          dojo: intro-to-cybersecurity
+          module: cryptography
+          challenge: aes-cbc-poa
+        name: Task 6
+
+      - import:
+          dojo: intro-to-cybersecurity
+          module: cryptography
+          challenge: level-9
+        name: Task 7
     
