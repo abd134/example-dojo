@@ -1,5 +1,5 @@
 id: homework1
-name: homework1
+name: csci432-homework1
 type: topic
 
 modules:
@@ -7,3 +7,22 @@ modules:
   - import:
       dojo: intro-to-cybersecurity
       module: cryptography
+
+  - id: "crypto"
+    name: Cryptography
+    description: Homework 1 for CSCI 43200 Purdue Spring 2025
+
+    challenges:
+
+      - import:
+          dojo: intro-to-cybersecurity
+          module: cryptography
+          challenge: level-4
+
+      - import:
+          dojo: intro-to-cybersecurity
+          module: cryptography
+          challenge: level-3
+        name: Multiple-pad
+        description: something absurd
+    
