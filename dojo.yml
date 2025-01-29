@@ -5,5 +5,5 @@ type: topic
 modules:
 
   - import:
-    dojo: intro-to-cybersecurity
-    module: cryptography
+      dojo: intro-to-cybersecurity
+      module: cryptography
