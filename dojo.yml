@@ -1,14 +1,9 @@
 id: homework1
 name: homework1
 type: topic
-award:
-  emoji: 😀
-image: pwncollege/challenge-simple
+
 modules:
 
   - import:
     dojo: intro-to-cybersecurity
     module: cryptography
-
-  - id: level-4
-  - name: task 1
