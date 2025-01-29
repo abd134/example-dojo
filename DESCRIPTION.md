@@ -1,2 +1,1 @@
-This is an [example dojo](https://github.com/pwncollege/example-dojo).
-Fork this repository, and create your own dojo!
+CSCI 43200 Spring 2025 Homework 1
