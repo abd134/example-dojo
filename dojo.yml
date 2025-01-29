@@ -1,9 +1,14 @@
-id: example
-name: Example Dojo
-type: example
+id: Homework 1
+name: Homework 1
+type: topic
 award:
   emoji: 😀
 image: pwncollege/challenge-simple
 modules:
-  - id: hello
-  - id: world
+
+  - import:
+    dojo: intro-to-cybersecurity
+    module: cryptography
+
+  - id: level-4
+  - name: task 1
